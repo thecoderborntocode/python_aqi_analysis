@@ -1,0 +1,9 @@
+country,AQI LEVEL
+India,"0    162
+Name: India, dtype: int64"
+China,"0    160
+Name: China, dtype: int64"
+Nepal,"0    81
+Name: Nepal, dtype: int64"
+Iran,"0    250
+Name: Iran, dtype: int64"
